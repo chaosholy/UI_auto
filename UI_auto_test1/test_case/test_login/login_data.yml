@@ -1,0 +1,3 @@
+test_login_pass:
+  - ["admin1", "111111"]
+  - ["fuxm", '111111']

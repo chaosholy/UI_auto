@@ -1,0 +1,210 @@
+2021-03-08 14:24:05,207 - [test_login.py-->line:26] - INFO: 用例--登录成功---执行通过
+2021-03-08 14:45:32,286 - [test_login.py-->line:26] - INFO: 用例--登录成功---执行通过
+2021-03-08 14:47:15,642 - [test_login.py-->line:26] - INFO: 用例--登录成功---执行通过
+2021-03-08 14:48:29,820 - [test_login.py-->line:26] - INFO: 用例--登录成功---执行通过
+2021-03-08 14:49:21,350 - [test_login.py-->line:23] - INFO: 用例--登录成功---执行通过
+2021-03-08 14:50:20,961 - [test_login.py-->line:23] - INFO: 用例--登录成功---执行通过
+2021-03-08 15:03:36,095 - [test_login.py-->line:24] - INFO: 用例--登录成功---执行通过
+2021-03-08 15:04:22,299 - [test_login.py-->line:24] - INFO: 用例--登录成功---执行通过
+2021-03-08 15:06:31,852 - [test_login.py-->line:24] - INFO: 用例--登录成功---执行通过
+2021-03-08 15:06:39,092 - [test_login.py-->line:39] - INFO: 用例--登录失败_错误账户---执行通过
+2021-03-08 15:06:44,402 - [test_login.py-->line:39] - INFO: 用例--登录失败_错误密码---执行通过
+2021-03-08 15:06:49,721 - [test_login.py-->line:39] - INFO: 用例--登录失败_空账户---执行通过
+2021-03-08 15:06:55,795 - [test_login.py-->line:39] - INFO: 用例--登录失败_空密码---执行通过
+2021-03-08 15:07:25,772 - [test_login.py-->line:24] - INFO: 用例--登录成功---执行通过
+2021-03-08 15:07:31,546 - [test_login.py-->line:40] - INFO: 用例--登录失败_错误账户---执行通过
+2021-03-08 15:07:36,795 - [test_login.py-->line:40] - INFO: 用例--登录失败_错误密码---执行通过
+2021-03-08 15:07:44,031 - [test_login.py-->line:40] - INFO: 用例--登录失败_空账户---执行通过
+2021-03-08 15:07:49,258 - [test_login.py-->line:40] - INFO: 用例--登录失败_空密码---执行通过
+2021-03-08 15:08:42,254 - [test_login.py-->line:41] - INFO: 用例--登录失败_错误账户---执行通过
+2021-03-08 15:08:49,596 - [test_login.py-->line:41] - INFO: 用例--登录失败_错误密码---执行通过
+2021-03-08 15:08:55,205 - [test_login.py-->line:41] - INFO: 用例--登录失败_空账户---执行通过
+2021-03-08 15:09:00,893 - [test_login.py-->line:41] - INFO: 用例--登录失败_空密码---执行通过
+2021-03-08 15:09:28,061 - [test_login.py-->line:24] - INFO: 用例--登录成功---执行通过
+2021-03-08 15:09:33,369 - [test_login.py-->line:39] - INFO: 用例--登录失败_错误账户---执行通过
+2021-03-08 15:09:38,705 - [test_login.py-->line:39] - INFO: 用例--登录失败_错误密码---执行通过
+2021-03-08 15:09:43,891 - [test_login.py-->line:39] - INFO: 用例--登录失败_空账户---执行通过
+2021-03-08 15:09:49,048 - [test_login.py-->line:39] - INFO: 用例--登录失败_空密码---执行通过
+2021-03-08 15:23:41,527 - [test_login.py-->line:27] - INFO: 用例--登录成功---执行通过
+2021-03-08 15:23:48,075 - [test_login.py-->line:44] - INFO: 用例--登录失败_错误账户---执行通过
+2021-03-08 15:23:53,992 - [test_login.py-->line:44] - INFO: 用例--登录失败_错误密码---执行通过
+2021-03-08 15:24:00,383 - [test_login.py-->line:44] - INFO: 用例--登录失败_空账户---执行通过
+2021-03-08 15:24:08,090 - [test_login.py-->line:44] - INFO: 用例--登录失败_空密码---执行通过
+2021-03-08 15:44:05,622 - [test_login.py-->line:27] - INFO: 用例--登录成功---执行通过
+2021-03-08 15:44:11,424 - [test_login.py-->line:44] - INFO: 用例--登录失败_错误账户---执行通过
+2021-03-08 15:44:51,300 - [test_login.py-->line:44] - INFO: 用例--登录失败_空账户---执行通过
+2021-03-08 15:44:57,018 - [test_login.py-->line:44] - INFO: 用例--登录失败_空密码---执行通过
+2021-03-08 15:46:11,020 - [test_login.py-->line:27] - INFO: 用例--登录成功---执行通过
+2021-03-08 15:46:16,348 - [test_login.py-->line:44] - INFO: 用例--登录失败_错误账户---执行通过
+2021-03-08 15:46:21,792 - [test_login.py-->line:44] - INFO: 用例--登录失败_错误密码---执行通过
+2021-03-08 15:46:50,383 - [test_login.py-->line:44] - INFO: 用例--登录失败_空密码---执行通过
+2021-03-08 15:49:22,051 - [test_login.py-->line:27] - INFO: 用例--登录成功---执行通过
+2021-03-08 15:49:27,453 - [test_login.py-->line:44] - INFO: 用例--登录失败_错误账户---执行通过
+2021-03-08 15:49:33,665 - [test_login.py-->line:44] - INFO: 用例--登录失败_错误密码---执行通过
+2021-03-08 15:49:41,323 - [test_login.py-->line:44] - INFO: 用例--登录失败_空账户---执行通过
+2021-03-08 15:49:46,575 - [test_login.py-->line:44] - INFO: 用例--登录失败_空密码---执行通过
+2021-03-08 15:55:56,389 - [test_login.py-->line:27] - INFO: 用例--登录成功---执行通过
+2021-03-08 15:56:03,889 - [test_login.py-->line:44] - INFO: 用例--登录失败_错误账户---执行通过
+2021-03-08 15:56:11,340 - [test_login.py-->line:44] - INFO: 用例--登录失败_错误密码---执行通过
+2021-03-08 15:56:19,471 - [test_login.py-->line:44] - INFO: 用例--登录失败_空账户---执行通过
+2021-03-08 15:56:25,093 - [test_login.py-->line:44] - INFO: 用例--登录失败_空密码---执行通过
+2021-03-08 15:58:26,448 - [test_login.py-->line:27] - INFO: 用例--登录成功---执行通过
+2021-03-08 15:58:33,692 - [test_login.py-->line:44] - INFO: 用例--登录失败_错误账户---执行通过
+2021-03-08 15:58:39,243 - [test_login.py-->line:44] - INFO: 用例--登录失败_错误密码---执行通过
+2021-03-08 15:58:46,590 - [test_login.py-->line:44] - INFO: 用例--登录失败_空账户---执行通过
+2021-03-08 15:58:54,014 - [test_login.py-->line:44] - INFO: 用例--登录失败_空密码---执行通过
+2021-03-08 16:05:07,030 - [test_login.py-->line:27] - INFO: 用例--登录成功---执行通过
+2021-03-08 16:05:14,357 - [test_login.py-->line:44] - INFO: 用例--登录失败_错误账户---执行通过
+2021-03-08 16:05:21,666 - [test_login.py-->line:44] - INFO: 用例--登录失败_错误密码---执行通过
+2021-03-08 16:05:26,936 - [test_login.py-->line:44] - INFO: 用例--登录失败_空账户---执行通过
+2021-03-08 16:05:32,118 - [test_login.py-->line:44] - INFO: 用例--登录失败_空密码---执行通过
+2021-03-08 16:06:57,277 - [test_login.py-->line:44] - INFO: 用例--登录失败_错误账户---执行通过
+2021-03-08 16:07:02,622 - [test_login.py-->line:44] - INFO: 用例--登录失败_错误密码---执行通过
+2021-03-08 16:07:07,843 - [test_login.py-->line:44] - INFO: 用例--登录失败_空账户---执行通过
+2021-03-08 16:07:13,696 - [test_login.py-->line:40] - ERROR: 用例--登录失败_空密码---执行失败
+2021-03-08 16:07:13,696 - [test_login.py-->line:41] - ERROR: assert '请输入密码1' == '请输入密码'
+  - 请输入密码
+  + 请输入密码1
+  ?      +
+Traceback (most recent call last):
+  File "C:\Users\Administrator\PycharmProjects\pythonProject_ui2\test_case\test_login.py", line 38, in test_login_fail
+    assert case['expect'] == res
+AssertionError: assert '请输入密码1' == '请输入密码'
+  - 请输入密码
+  + 请输入密码1
+  ?      +
+2021-03-08 16:12:51,420 - [test_login.py-->line:27] - INFO: 用例--登录成功---执行通过
+2021-03-08 16:12:58,797 - [test_login.py-->line:44] - INFO: 用例--登录失败_错误账户---执行通过
+2021-03-08 16:13:04,133 - [test_login.py-->line:44] - INFO: 用例--登录失败_错误密码---执行通过
+2021-03-08 16:13:11,819 - [test_login.py-->line:44] - INFO: 用例--登录失败_空账户---执行通过
+2021-03-08 16:13:18,964 - [test_login.py-->line:40] - ERROR: 用例--登录失败_空密码---执行失败
+2021-03-08 16:13:18,964 - [test_login.py-->line:41] - ERROR: assert '请输入密码1' == '请输入密码'
+  - 请输入密码
+  + 请输入密码1
+  ?      +
+Traceback (most recent call last):
+  File "C:\Users\Administrator\PycharmProjects\pythonProject_ui2\test_case\test_login.py", line 38, in test_login_fail
+    assert case['expect'] == res
+AssertionError: assert '请输入密码1' == '请输入密码'
+  - 请输入密码
+  + 请输入密码1
+  ?      +
+2021-03-08 16:20:20,606 - [test_login.py-->line:27] - INFO: 用例--登录成功---执行通过
+2021-03-08 16:20:28,160 - [test_login.py-->line:44] - INFO: 用例--登录失败_错误账户---执行通过
+2021-03-08 16:20:33,439 - [test_login.py-->line:44] - INFO: 用例--登录失败_错误密码---执行通过
+2021-03-08 16:20:38,642 - [test_login.py-->line:44] - INFO: 用例--登录失败_空账户---执行通过
+2021-03-08 16:20:43,912 - [test_login.py-->line:40] - ERROR: 用例--登录失败_空密码---执行失败
+2021-03-08 16:20:43,912 - [test_login.py-->line:41] - ERROR: assert '请输入密码1' == '请输入密码'
+  - 请输入密码
+  + 请输入密码1
+  ?      +
+Traceback (most recent call last):
+  File "C:\Users\Administrator\PycharmProjects\pythonProject_ui2\test_case\test_login.py", line 38, in test_login_fail
+    assert case['expect'] == res
+AssertionError: assert '请输入密码1' == '请输入密码'
+  - 请输入密码
+  + 请输入密码1
+  ?      +
+2021-03-08 17:00:45,337 - [test_login.py-->line:29] - INFO: 用例--登录成功---执行通过
+2021-03-08 17:00:52,683 - [test_login.py-->line:46] - INFO: 用例--登录失败_错误账户---执行通过
+2021-03-08 17:01:00,149 - [test_login.py-->line:46] - INFO: 用例--登录失败_错误密码---执行通过
+2021-03-08 17:01:05,659 - [test_login.py-->line:46] - INFO: 用例--登录失败_空账户---执行通过
+2021-03-08 17:01:11,872 - [test_login.py-->line:42] - ERROR: 用例--登录失败_空密码---执行失败
+2021-03-08 17:01:11,872 - [test_login.py-->line:43] - ERROR: assert '请输入密码1' == '请输入密码'
+  - 请输入密码
+  + 请输入密码1
+  ?      +
+Traceback (most recent call last):
+  File "C:\Users\Administrator\PycharmProjects\pythonProject_ui2\test_case\test_login.py", line 40, in test_login_fail
+    assert case['expect'] == res
+AssertionError: assert '请输入密码1' == '请输入密码'
+  - 请输入密码
+  + 请输入密码1
+  ?      +
+2021-03-08 17:02:45,748 - [test_login.py-->line:29] - INFO: 用例--登录成功---执行通过
+2021-03-08 17:02:53,183 - [test_login.py-->line:46] - INFO: 用例--登录失败_错误账户---执行通过
+2021-03-08 17:02:59,326 - [test_login.py-->line:46] - INFO: 用例--登录失败_错误密码---执行通过
+2021-03-08 17:03:05,120 - [test_login.py-->line:46] - INFO: 用例--登录失败_空账户---执行通过
+2021-03-08 17:03:10,344 - [test_login.py-->line:42] - ERROR: 用例--登录失败_空密码---执行失败
+2021-03-08 17:03:10,344 - [test_login.py-->line:43] - ERROR: assert '请输入密码1' == '请输入密码'
+  - 请输入密码
+  + 请输入密码1
+  ?      +
+Traceback (most recent call last):
+  File "C:\Users\Administrator\PycharmProjects\pythonProject_ui2\test_case\test_login.py", line 40, in test_login_fail
+    assert case['expect'] == res
+AssertionError: assert '请输入密码1' == '请输入密码'
+  - 请输入密码
+  + 请输入密码1
+  ?      +
+2021-03-08 17:06:04,714 - [test_login.py-->line:29] - INFO: 用例--登录成功---执行通过
+2021-03-08 17:06:32,156 - [test_login.py-->line:29] - INFO: 用例--登录成功---执行通过
+2021-03-08 17:06:53,955 - [test_login.py-->line:29] - INFO: 用例--登录成功---执行通过
+2021-03-08 17:08:19,503 - [test_login.py-->line:29] - INFO: 用例--登录成功---执行通过
+2021-03-08 17:09:04,652 - [test_login.py-->line:29] - INFO: 用例--登录成功---执行通过
+2021-03-08 17:09:28,831 - [test_login.py-->line:29] - INFO: 用例--登录成功---执行通过
+2021-03-08 17:09:36,373 - [test_login.py-->line:46] - INFO: 用例--登录失败_错误账户---执行通过
+2021-03-08 17:09:44,743 - [test_login.py-->line:46] - INFO: 用例--登录失败_错误密码---执行通过
+2021-03-08 17:09:52,613 - [test_login.py-->line:46] - INFO: 用例--登录失败_空账户---执行通过
+2021-03-08 17:10:00,625 - [test_login.py-->line:42] - ERROR: 用例--登录失败_空密码---执行失败
+2021-03-08 17:10:00,626 - [test_login.py-->line:43] - ERROR: assert '请输入密码1' == '请输入密码'
+  - 请输入密码
+  + 请输入密码1
+  ?      +
+Traceback (most recent call last):
+  File "C:\Users\Administrator\PycharmProjects\pythonProject_ui2\test_case\test_login.py", line 40, in test_login_fail
+    assert case['expect'] == res
+AssertionError: assert '请输入密码1' == '请输入密码'
+  - 请输入密码
+  + 请输入密码1
+  ?      +
+2021-03-08 17:10:42,655 - [test_login.py-->line:29] - INFO: 用例--登录成功---执行通过
+2021-03-08 17:10:47,978 - [test_login.py-->line:46] - INFO: 用例--登录失败_错误账户---执行通过
+2021-03-08 17:10:55,215 - [test_login.py-->line:46] - INFO: 用例--登录失败_错误密码---执行通过
+2021-03-08 17:11:02,934 - [test_login.py-->line:46] - INFO: 用例--登录失败_空账户---执行通过
+2021-03-08 17:11:10,858 - [test_login.py-->line:42] - ERROR: 用例--登录失败_空密码---执行失败
+2021-03-08 17:11:10,859 - [test_login.py-->line:43] - ERROR: assert '请输入密码1' == '请输入密码'
+  - 请输入密码
+  + 请输入密码1
+  ?      +
+Traceback (most recent call last):
+  File "C:\Users\Administrator\PycharmProjects\pythonProject_ui2\test_case\test_login.py", line 40, in test_login_fail
+    assert case['expect'] == res
+AssertionError: assert '请输入密码1' == '请输入密码'
+  - 请输入密码
+  + 请输入密码1
+  ?      +
+2021-03-08 18:18:19,862 - [test_login.py-->line:29] - INFO: 用例--登录成功---执行通过
+2021-03-08 18:18:27,375 - [test_login.py-->line:46] - INFO: 用例--登录失败_错误账户---执行通过
+2021-03-08 18:18:35,069 - [test_login.py-->line:46] - INFO: 用例--登录失败_错误密码---执行通过
+2021-03-08 18:18:41,047 - [test_login.py-->line:46] - INFO: 用例--登录失败_空账户---执行通过
+2021-03-08 18:18:46,881 - [test_login.py-->line:42] - ERROR: 用例--登录失败_空密码---执行失败
+2021-03-08 18:18:46,881 - [test_login.py-->line:43] - ERROR: assert '请输入密码1' == '请输入密码'
+  - 请输入密码
+  + 请输入密码1
+  ?      +
+Traceback (most recent call last):
+  File "C:\Users\Administrator\PycharmProjects\pythonProject_ui2\test_case\test_login.py", line 40, in test_login_fail
+    assert case['expect'] == res
+AssertionError: assert '请输入密码1' == '请输入密码'
+  - 请输入密码
+  + 请输入密码1
+  ?      +
+2021-03-09 14:18:00,604 - [test_login.py-->line:33] - INFO: 用例--登录成功---执行通过
+2021-03-09 14:18:05,804 - [test_login.py-->line:50] - INFO: 用例--登录失败_错误账户---执行通过
+2021-03-09 17:44:28,924 - [test_login.py-->line:32] - INFO: 用例--登录成功---执行通过
+2021-03-09 17:44:34,580 - [test_login.py-->line:49] - INFO: 用例--登录失败_错误账户---执行通过
+2021-03-09 17:44:39,680 - [test_login.py-->line:49] - INFO: 用例--登录失败_错误密码---执行通过
+2021-03-09 17:44:47,224 - [test_login.py-->line:49] - INFO: 用例--登录失败_空账户---执行通过
+2021-03-09 17:44:52,881 - [test_login.py-->line:45] - ERROR: 用例--登录失败_空密码---执行失败
+2021-03-09 17:44:52,882 - [test_login.py-->line:46] - ERROR: assert '请输入密码1' == '请输入密码'
+  - 请输入密码
+  + 请输入密码1
+  ?      +
+Traceback (most recent call last):
+  File "C:\Users\Administrator\PycharmProjects\UI_auto_test\test_case\test_login.py", line 43, in test_login_fail
+    assert case['expect'] == res
+AssertionError: assert '请输入密码1' == '请输入密码'
+  - 请输入密码
+  + 请输入密码1
+  ?      +
